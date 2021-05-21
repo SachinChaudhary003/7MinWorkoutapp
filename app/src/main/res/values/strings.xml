@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">7MinWorkout</string>
+    <string name="str_start">START</string>
+    <string name="image">image</string>
+    <string name="BMI">BMI</string>
+    <string name="Startbutton">HISTORY</string>
+</resources>
